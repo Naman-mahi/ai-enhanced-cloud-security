@@ -1,0 +1,11 @@
+timestamp,username,ip_address,login_status,auth_method,location,device_type,attempt_count,session_duration,alert_level
+2024-03-23 10:15:30,admin,192.168.1.100,success,2FA,New York,Desktop,1,3600,0
+2024-03-23 10:16:45,jsmith,45.33.22.152,failed,password,Unknown,Mobile,3,0,2
+2024-03-23 10:17:12,analyst,192.168.1.103,success,SSO,London,Laptop,1,1800,0
+2024-03-23 10:18:30,system,103.45.67.89,failed,password,Beijing,Unknown,5,0,3
+2024-03-23 10:19:45,developer,192.168.1.105,success,2FA,Paris,Desktop,1,2400,0
+2024-03-23 10:20:15,tester,78.56.34.12,failed,password,Moscow,Mobile,4,0,2
+2024-03-23 10:21:30,admin,91.234.56.78,failed,2FA,Unknown,Unknown,6,0,3
+2024-03-23 10:22:45,analyst,192.168.1.108,success,SSO,Toronto,Laptop,1,1200,0
+2024-03-23 10:23:15,developer,67.45.23.89,failed,password,Singapore,Desktop,2,0,1
+2024-03-23 10:24:30,jsmith,192.168.1.110,success,2FA,Sydney,Mobile,1,1800,0 
