@@ -40,6 +40,7 @@ The AI-Enhanced Cloud Security Platform is an advanced security monitoring and t
 ```bash
 git clone https://github.com/namanmahi/ai-enhanced-cloud-security.git
 ```
+```
 cd ai-enhanced-cloud-security
 ```
 ### Step 2: Create Virtual Environment
