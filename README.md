@@ -189,8 +189,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - Created by Namanmahi
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Email: skhobragade993@gmail.com
+- GitHub: [My GitHub Profile](https://github.com/naman-mahi)
 
 ---
 Developed with ❤️ by Namanmahi
